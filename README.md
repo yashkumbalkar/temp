@@ -1,6 +1,6 @@
 # Seven Horses Running
 
-![Seven Horses Running](./wp8298151-running-seven-horses-wallpapers.jpg)
+![Seven Horses Running](https://github.com/yashkumbalkar/temp/blob/main/wp4696867-7horse-wallpapers.jpg)
 
 ## Overview
 
