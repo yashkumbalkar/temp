@@ -17,6 +17,6 @@ This repository is a visual representation of the "Seven Horses Running" wallpap
 [Link to the dataset](https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-songs-2023/data)
 
 * Date :
-[image](https://github.com/imenbkr/Power-Bi-dashboards/assets/104791884/e4c6cfd6-679a-4528-a20e-da21ed2a9323)
+![image](https://github.com/imenbkr/Power-Bi-dashboards/assets/104791884/e4c6cfd6-679a-4528-a20e-da21ed2a9323)
 
 
