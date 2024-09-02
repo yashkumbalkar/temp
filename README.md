@@ -12,4 +12,11 @@ This repository is a visual representation of the "Seven Horses Running" wallpap
 - **Symbolism**: The seven white horses are often considered auspicious in various cultures, representing success, power, and vitality.
 - **Versatility**: Whether you're looking to add a dynamic touch to your workspace or incorporate powerful imagery into your designs, this image serves as a versatile resource.
 
+## other examples
+
+[Link to the dataset](https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-songs-2023/data)
+
+* Date :
+[image](https://github.com/imenbkr/Power-Bi-dashboards/assets/104791884/e4c6cfd6-679a-4528-a20e-da21ed2a9323)
+
 
