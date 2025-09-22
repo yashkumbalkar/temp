@@ -24,5 +24,5 @@ This repository is a visual representation of the "Seven Horses Running" wallpap
 
 ```
 print("hello")
-
+```
 
